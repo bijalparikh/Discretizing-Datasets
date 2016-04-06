@@ -5,14 +5,14 @@ GlobalDDS.java implements the three global discretization algorithms:
 3. Conditional entropy.
 
 The input to the program should be a text file in LERS format.
-The input files need to be inside the project folder, 2822565-bijalp-dm project
+The input files need to be inside the project folder
 
-List of files inside 2822565-bijalp-dm:
+List of files inside \
 1. read.me
 2. GlobalDDS.java
 
 Instructions to compile/run the program:
-1. Navigate to the 2822565-bijalp-dm project folder on commandline
+1. Navigate to the  project folder on commandline
 2. run "javac GlobalDDS.java" to compile the program
 3. run "java GlobalDDS" to run the program
 3. Enter input file name
